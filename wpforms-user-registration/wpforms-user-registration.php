@@ -2,6 +2,7 @@
 /**
  * Plugin Name: WPForms User Registration
  * Plugin URI:  https://wpforms.com
+ * Github Theme URI: https://github.com/mansipatilrefer/wptheme
  * Description: User Registration and Login forms with WPForms.
  * Author:      WPForms
  * Author URI:  https://wpforms.com
